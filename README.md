@@ -2,7 +2,7 @@
 - 🎓 I'm a second year CSE student studying at TSEC
 - 🔭 I'm currently working on Java, DSA and Frontend
 - 🌱 I’m currently learning JavaScript, DSA in Java & Frontend 
-- 👀 I’m interested in Web development and DSA
+- 👀 I’m currently interested in Web development and DSA
 
 
 <!---
