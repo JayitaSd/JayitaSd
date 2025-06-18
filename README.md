@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JavaScript, DSA in Java & Frontend 
 - 👀 I’m currently interested in Web development and DSA
 
-
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={JayitaS}" alt="LeetCode Badges" />
 <!---
 - 
 - 💞️ I’m looking to collaborate on ...
