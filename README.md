@@ -16,17 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayitasd&show_icons=true&locale=en&layout=compact" alt="jayitasd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayitasd&show_icons=true&locale=en" alt="jayitasd" /></p>
-
-
-
-
-<!---
-- <img src="https://leetcode-badge-showcase.vercel.app/api?username=JayitaS" alt="LeetCode Badges" />
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=JayitaS&animated=true" alt="LeetCode Badges" />
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-JayitaSd/JayitaSd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
