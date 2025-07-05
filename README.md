@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jayita Sadani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **FrontEnd Development**
+- 🔭 I’m currently working on **BackEnd Development**
 
-- 🌱 I’m currently learning **React, DSA**
+- 🌱 I’m currently learning **Spring, DSA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
