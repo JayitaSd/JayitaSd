@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayita Sadani</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **BackEnd Development**
-
-- 🌱 I’m currently learning **MicroServices**
+- 🔭 I’m currently exploring on **Spring AI, MicroServices, DevOps**
 
 
 ## 🌐 Socials:
