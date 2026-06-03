@@ -1,7 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" />, I'm Jayita Sadani</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently exploring on **Spring AI, MicroServices, DevOps**
+- 🔭 Currently exploring on **MicroServices, System Design and DevOps**
+- 🤝 Open to contribute and collaborate to **Full Stack Spring and Spring AI projects**
 
 
 ## 🌐 Socials:
